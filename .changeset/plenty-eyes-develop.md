@@ -1,5 +1,5 @@
 ---
-'astro': patch
+'astro': minor
 ---
 
 404 when not using subpath for items in public in dev
